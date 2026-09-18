@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Javeed Basha 👋
 
-<!--
-**javeed-basha-aiml/javeed-basha-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### V!tian 🎓 | B.Sc. Computer Science → M.Sc. AI/ML
 
-Here are some ideas to get you started:
+Trying to do better....ツ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Computer Science graduate from VIT, currently pursuing my
+M.Sc. in Artificial Intelligence & Machine Learning.
+
+## 📌 Featured Projects
+
+### 🤖 AI-Based Ship Waste Management
+AI-powered image segmentation system for identifying and managing
+waste in marine environments.
+
+### 🚧 IoT Smart Toll Gate
+RFID-based smart toll management system integrated with IoT,
+cloud analytics, and automated gate control.
+
+---
+
+## 🎯 Currently
+
+📚 Pursuing M.Sc. AI/ML  
+🔬 Exploring AI, Computer Vision & Intelligent Systems  
+🛠️ Building projects and learning by doing
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn — Coming soon
+- GitHub — You're already here 😄
